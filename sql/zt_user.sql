@@ -1,0 +1,2 @@
+INSERT INTO `zt_user` (`id`, `name`, `age`, `email`, `phone`, `password`, `image`, `createtime`, `flag`) VALUES (1, 'maying', 0, '', '15662176002', '123456', 'https://avatar.csdn.net/8/C/E/3_bjweimengshu.jpg', '2018-4-1 11:44:24', 1);
+INSERT INTO `zt_user` (`id`, `name`, `age`, `email`, `phone`, `password`, `image`, `createtime`, `flag`) VALUES (2, 'maying1', 0, '', '15662176001', '123456', '', '2018-3-18 14:56:26', 1);
